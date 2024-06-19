@@ -1,0 +1,21 @@
+# ninja log v5
+0	45	7405080667436196	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	cae37d1f56a5326b
+0	45	7405080667436196	F:/MyCodes/WindowBird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	cae37d1f56a5326b
+45	45471	7405081121826256	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	e670236c5db8ec34
+45	45471	7405081121826256	F:/MyCodes/WindowBird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	e670236c5db8ec34
+45471	45559	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	7e3dfb8dc525a9c8
+45471	45559	0	F:/MyCodes/WindowBird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	7e3dfb8dc525a9c8
+45559	45588	7405081122997951	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	321ab55459b4d0f3
+45559	45588	7405081122997951	F:/MyCodes/WindowBird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	321ab55459b4d0f3
+45589	45624	7405081123304375	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	5c29dd92623c0e20
+45589	45624	7405081123304375	F:/MyCodes/WindowBird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	5c29dd92623c0e20
+45624	45653	7405081123643842	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	54c5f839ce2b3826
+45624	45653	7405081123643842	F:/MyCodes/WindowBird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	54c5f839ce2b3826
+45653	45680	7405081123913489	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	b4d32513131889e3
+45653	45680	7405081123913489	F:/MyCodes/WindowBird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	b4d32513131889e3
+45680	45707	7405081124187114	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	ffde4b2953be6844
+45680	45707	7405081124187114	F:/MyCodes/WindowBird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	ffde4b2953be6844
+45707	45746	7405081124567114	CMakeFiles/sfml-populate-complete	fcea7a9fb7b105ad
+45707	45746	7405081124567114	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	fcea7a9fb7b105ad
+45707	45746	7405081124567114	F:/MyCodes/WindowBird/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	fcea7a9fb7b105ad
+45707	45746	7405081124567114	F:/MyCodes/WindowBird/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	fcea7a9fb7b105ad
